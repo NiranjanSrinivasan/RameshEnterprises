@@ -1,0 +1,167 @@
+
+.jhead
+{
+  font-family: 'Fugaz One', cursive;
+  font-size:  30px;
+  background-image: url('../images/back.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  padding: 7rem 0;
+color:#ffffff;
+}
+.about
+{
+  font-family: 'Fugaz One', cursive;
+  font-size:  30px;
+  background-image: url('../images/domestic.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  padding: 7rem 0;
+  opacity: 0.8;
+color:#ffffff;
+}
+.contact
+{
+  font-family: 'Fugaz One', cursive;
+  font-size:  30px;
+  background-image: url('../images/Contact.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  padding: 7rem 0;
+  opacity: 0.8;
+color:#ffffff;
+}
+.product
+{
+  font-family: 'Fugaz One', cursive;
+  font-size:  30px;
+  background-image: url('../images/Product.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  padding: 7rem 0;
+color:#ffffff;
+}
+
+.bs-docs-featurette {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    }
+ .visible-xs
+ {
+  width:60%;
+  border:solid 1px #00cc00;
+ }   
+ .large {
+    font-size: 2rem;
+    line-height: 1.55;
+}
+.pb-4, .py-4 {
+    padding-bottom: 1.5rem !important;
+}
+.offset-md-1 {
+    margin-left: 8.33333%;
+}
+.col-md-10 {
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
+}
+.colspace
+{
+  padding-left: 100px;
+
+}
+.colspace2
+{
+  padding-left: 300px;
+}
+.jbot
+{
+  opacity: 1.0
+}
+ .panel-footer
+{
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222;
+  border-top: 0;
+}
+.panel-footer div.row
+{
+  margin-bottom: 35px;
+}
+#hours,#address
+{
+  line-height: 2;
+}
+#hours > span, #address > span
+{
+  font-size: 1.3em;
+}
+#address p
+{
+  color: #557c3e;
+  font-size: .8em;
+  line-height: 1.8
+}
+#testimonials
+{
+  font-style: italic;
+}
+#testimonials p:nth-child(2)
+{
+  margin-top: 25px;
+}
+@media (max-width: 767px)
+{
+  .panel-footer section
+  {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .panel-footer section:nth-child(3)
+  {
+    margin-bottom: 0;
+  }
+  .panel-footer section hr
+  {
+    width: 50%;
+  }
+}
+.hspacing
+{
+  padding-left: 100px;
+  padding-top: 50px;
+}
+.aspacing
+{
+  padding-left: 110px;
+}
+.phspacing
+{
+  padding-left: 110px;
+}
+.mailspacing
+{
+  padding-left: 110px;
+}
+.fas
+{
+  font-size: 30px;
+}
+.far
+{
+  font-size: 30px;
+}
+.navcolor
+{
+  color: #000000;
+}
+.pspace
+{
+  padding-left: 10px;
+}
